@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+    margin: 0;
+    padding-bottom: 70px;
+}
+
+.footer {
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #f5f5f5;
+    position: fixed;
+}
+
+.banner {
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    max-height: 180px;
+}
+
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.parrafo {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hola {
+    color: orangered;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
